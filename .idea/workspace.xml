@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1763d12a-f980-48ac-8cf7-9ad1680820d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/Classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/out/production/Classes/com/timbuchalka/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/out/production/Classes/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/src/com/timbuchalka/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Classes/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/OOP-Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Dimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Motherboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Resolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/out/production/OOP-Composition/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Dimensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Motherboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Resolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Composition/src/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/Constructors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/out/production/Constructors/com/timbuchalka/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/out/production/Constructors/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/out/production/Constructors/com/timbuchalka/VipPerson.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/src/com/timbuchalka/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Constructors/src/com/timbuchalka/VipPerson.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/out/production/Inheritance/com/timbuchalka/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/out/production/Inheritance/com/timbuchalka/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/out/production/Inheritance/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/src/com/timbuchalka/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/src/com/timbuchalka/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/src/com/timbuchalka/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOP-Inheritance/src/com/timbuchalka/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27dbdDNWXqHQ4Taciu3kX8BkIyG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/1-OOP-Classes" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.splitter.proportion" value="0.24637681" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1763d12a-f980-48ac-8cf7-9ad1680820d8" name="Changes" comment="" />
+      <created>1649652998204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649652998204</updated>
+    </task>
+    <servers />
+  </component>
+</project>
